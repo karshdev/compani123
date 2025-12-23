@@ -67,7 +67,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className="font-sans">
       <head>
         <link rel="icon" href="/favicon.ico" />
         <link rel="canonical" href="https://techcare.example.com" />
